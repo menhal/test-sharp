@@ -1,0 +1,22 @@
+{
+  "name": "test-sharp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "云小飞",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@fontsource/poppins": "^4.5.10",
+    "node-fetch": "^3.3.1",
+    "prettier": "^2.8.4",
+    "sharp": "^0.31.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.1"
+  },
+  "scripts": {
+    "build": "node main.js"
+  }
+}
